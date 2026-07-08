@@ -1,0 +1,10 @@
+{
+  "name": "mindflow-api",
+  "version": "1.0.0",
+  "description": "MindFlow API with Supabase Integration",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.0"
+  }
+}
